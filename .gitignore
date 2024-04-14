@@ -1,0 +1,4 @@
+blur_train.csv
+weight_classif.pth
+weights_autoencoder3_500.pth
+.DS_Store
